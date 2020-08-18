@@ -25,6 +25,12 @@ console.log(umur)
 console.log(posisiPekerjaan)
 
 // multiple comment soal no 2
+/*
+prompt("nama user")
+prompt("asal negara")
+confirm("apakah data yang diisi sudah benar  ?")
+alert("terimakasih sudah mengisi form")
+*/
 
 // variabel untuk menampung data diri
 let dataDiri = {
